@@ -1,7 +1,6 @@
 body{
-background-color:#ecdcd5;
 background: linear-gradient(to bottom, #ffcccc 0%, #ffff99 100%);
-height:8in;
+height:100vh;
 font-family: arial ;
 }
 hr{
